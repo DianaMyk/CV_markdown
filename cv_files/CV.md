@@ -4,7 +4,7 @@
 ---
 
 ## SUMMARY  
-QA nnnnnAutomation Engineer with 3 years of experience in software testing. Proficient in test automation using Python and JavaScript with a keen focus on API testing, functional testing, regression testing, and UI testing. Skilled in creating and maintaining automated test scripts integrated into CI/CD pipelines using Gitlab CI and Jenkins. Work with Docker and are well-versed in cloud technologies such as Azure. Adaptable to Waterfall and Agile methodologies, with a strong focus on collaboration and effective communication within cross-functional teams.
+QA Automation Engineer with 3 years of experience in software testing. Proficient in test automation using Python and JavaScript with a keen focus on API testing, functional testing, regression testing, and UI testing. Skilled in creating and maintaining automated test scripts integrated into CI/CD pipelines using Gitlab CI and Jenkins. Work with Docker and are well-versed in cloud technologies such as Azure. Adaptable to Waterfall and Agile methodologies, with a strong focus on collaboration and effective communication within cross-functional teams.
 
 ---
 

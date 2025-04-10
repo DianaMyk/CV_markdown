@@ -3,9 +3,9 @@ name: Markdown to PDF
 on: 
   push:
     branches:
-      -main
+      - main
     paths:
-      -'cv_files/CV.md'
+      - 'cv_files/CV.md'
 jobs:
   converttopdf:
     name: Buid PDF
