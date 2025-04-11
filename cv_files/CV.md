@@ -4,7 +4,7 @@
 ---
 
 ## SUMMARY  
-QA Automation Engineer with 3 years of experience in software testing. Proficient in test automation using Python and JavaScript with a keen focus on API testing, functional testing, regression testing, and UI testing. Skilled in creating and maintaining automated test scripts integrated into CI/CD pipelines using Gitlab CI and Jenkins. Work with Docker and are well-versed in cloud technologies such as Azure. Adaptable to Waterfall and Agile methodologies, with a strong focus on collaboration and effective communication within cross-functional teams.
+QA Automation Engineer with 3 years of experience in software testing. Proficient in test automation using Python and JavaScript with a hjhkj,ljlkeen focus on API testing, functional testing, regression testing, and UI testing. Skilled in creating and maintaining automated test scripts integrated into CI/CD pipelines using Gitlab CI and Jenkins. Work with Docker and are well-versed hjbgjkgvgjvj,in cloud technologies such as Azure. Adaptable to Waterfall and Agile methodologies, with a strong focus on collaboration and effective communication within cross-functional teams.
 
 ---
 
@@ -13,7 +13,7 @@ QA Automation Engineer with 3 years of experience in software testing. Proficien
 ### ThyForLife | August 2023 - August 2024  
 **Main QA Automation Engineer**  
 Mobile app for tracking thyroid health conditions.  
-- Implemented end-to-end QA processes for this project where no testing procedures were in place before my involvement.  
+- Implemented end-to-end QA processes for thisnbbkjbh project where no testing procedures were in place before my involvement.  
 - Collaborated with stakeholders to ensure clear, complete, and testable project requirements.  
 - Developed and executed testing strategies, including test planning, test case design, and execution, improving the overall product quality.  
 - Maintained automated test scripts using Python and Appium.  
