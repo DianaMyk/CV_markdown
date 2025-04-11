@@ -6,6 +6,16 @@ on:
       - main
 
 jobs:
+  check-spell: 
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: rojopolis/spellcheck-github-actions@0.48.0
+      name: Spellcheck
+      with:
+        source_files: cv_files/CV.md
+        task_name: Markdown
   converttopdf:
     name: Buid PDF
     runs-on: ubuntu-latest
