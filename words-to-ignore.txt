@@ -1,0 +1,6 @@
+# Anything after a # is a comment
+Mykytyn
+ # ignore a word by writing it here. Capitalization matters
+# You can provide words that are similar to the word you ignore in order
+# for hunspell to detect variations of the word and ignore it as well
+# (e.g. plural forms, prefixes, etc.)
